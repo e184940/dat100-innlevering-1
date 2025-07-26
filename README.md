@@ -15,8 +15,8 @@ Calculates the factorial of a user-provided integer greater than 0 using a `for`
 
 Technologies
 - Java
-- `Scanner` for user input
-- Control structures: `if/else`, `for` loops
+- Scanner for user input
+- Control structures: if/else, for loops
 
 How to Run
 Compile and run any of the files like this:
