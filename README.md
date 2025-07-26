@@ -11,7 +11,7 @@ OppgaveO2 – Tax Bracket Calculation
 Asks the user for their gross income and calculates how much tax they owe based on Norwegian tax brackets. Displays gross income, tax amount, and net income.
 
 OppgaveO3 – Factorial Calculation
-Calculates the factorial of a user-provided integer greater than 0 using a `for` loop, and displays the result.
+Calculates the factorial of a user-provided integer greater than 0 using a for loop, and displays the result.
 
 Technologies
 - Java
