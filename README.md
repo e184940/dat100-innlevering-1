@@ -22,4 +22,5 @@ How to Run
 Compile and run any of the files like this:
 
 javac OppgaveO1.java
+
 java no.hvl.dat100.OppgaveO1
